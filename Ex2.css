@@ -1,0 +1,24 @@
+p {
+    font-family: sans-serif;
+    padding: 20px;
+    background-color: grey;
+}
+.secondParagraph{
+    font-family: sans-serif;
+    padding: 20px;
+    background-color: blue;
+}
+p.firstParagraph {
+    color: yellow;
+}
+p.secondParagraph {
+    color: yellow;
+}
+p.secondParagraph {
+    color: yellow;
+}
+p.thirdParagraph {
+    color: yellow;
+}p.fourthParagraph {
+     color: yellow;
+ }
